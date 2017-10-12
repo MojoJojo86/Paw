@@ -1,5 +1,5 @@
 
 
 - **Home**
-    - [Guide](guide.md)
-    - [Second](second.md)
+    - [Guide](./guide.md)
+    - [Second](./second.md)
