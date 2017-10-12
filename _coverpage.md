@@ -1,4 +1,4 @@
-![logo](_media/Pawhead.svg)
+![logo](./_media/Pawhead.svg)
 # p.a.w <small>v1.0.0</small>
 
 > QART documentation made simple.
