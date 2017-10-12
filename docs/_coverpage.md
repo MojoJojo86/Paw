@@ -1,5 +1,5 @@
 ![logo](_media/pawhead.png)
-# p.a.w <small>v1.0.0</small>
+# paw <small>v1.0.0</small>
 
 > QART documentation made simple.
 >
