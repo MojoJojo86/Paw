@@ -41,5 +41,5 @@ If struggling with bowel and rectal doses it is possible to create the following
      > * Apply a mean objective of 98% Dose and a Priority of 40.
   
   
-![ProstateDoses](_media/prostdoses.png)
+![ProstateDoses](docs/_media/prostdoses.png)
   
