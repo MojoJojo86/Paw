@@ -7,6 +7,3 @@
 - Nice and Clean
 - Easy to Use
 - Get what you need...fast!
-
-<!-- background color -->
-![color](#deeff5)
