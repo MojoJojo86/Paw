@@ -1,6 +1,6 @@
 # Prostate and Pelvis
 
-### 1. Margins and Contouring
+### 1. PTV Margins and Contouring
 
 * #### **PTV3** i.e. 74Gy
   > CTVp - Contour the Prostate Only
@@ -21,8 +21,20 @@
 
 * Bowel should extend atleast 1cm sup of **PTVn**
 
-* When creating 71Gy-74Gy Structure, use boolean as dose levels don't vary much.
+* When creating 71Gy-74Gy Structure, use boolean as dose levels don't vary much
 
-* When creating 55Gy-71Gy, Crop 5mm between the structures to allow for the difference in dose.
+* When creating 55Gy-71Gy, Crop 5mm between the structures to allow for the difference in dose
 
+### 2. OAR Contouring
 
+##### ***Avoid if the overlap looks fine.***
+If struggling with bowel and rectal doses it is possible to create the following structures.
+
+  1. ***Rectum_in_74***
+    * Boolean Rectum and 74Gy structure to leave an overlap of these. Apply a mean objective of 98% Dose and a Priority of 40.
+  2. ***Rectum_in_71***
+    * Boolean Rectum and 71Gy structure to leave an overlap of these. Apply a mean objective of 98% Dose and a Priority of 40.
+  3. ***Bowel_in_55***
+    * Boolean Bowel and 55Gy structure to leave an overlap of these. Apply a mean objective of 98% Dose and a Priority of 40.
+  
+  
