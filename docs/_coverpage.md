@@ -1,4 +1,4 @@
-![logo](_media/kumqart.png)
+![logo](_media/kumqartsmall.png)
 # paw <small>v1.0.0</small>
 
 > QART documentation made simple.
