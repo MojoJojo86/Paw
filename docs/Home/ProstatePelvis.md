@@ -1,6 +1,6 @@
 # Prostate and Pelvis
 
-### 1. Contouring and Margins
+### 1. Margins and Contouring
 
 * #### **PTV3** i.e. 74Gy
   > CTVp - Contour the Prostate Only
@@ -18,3 +18,11 @@
   > PTVn - Grown from the CTVn by 0.7mm
   
 ---
+
+* Bowel should extend atleast 1cm sup of **PTVn**
+
+* When creating 71Gy-74Gy Structure, use boolean as dose levels don't vary much.
+
+* When creating 55Gy-71Gy, Crop 5mm between the structures to allow for the difference in dose.
+
+
