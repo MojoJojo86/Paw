@@ -1,12 +1,12 @@
 ![logo](_media/kumqartsmall.png)
-# paw <small>v1.0.0</small>
+# kumQART <small>v1.0.0</small>
 
-> QART documentation made simple.
+> QART docs made simple.
 >
 
 - Easy to Use
-- Ridiculously Clean
-- Get what you need
+- Super Clean
+- Get what you need...fast!
 
 <!-- background color -->
 ![color](#ffffff)
