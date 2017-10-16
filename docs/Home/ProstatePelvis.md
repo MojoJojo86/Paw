@@ -41,3 +41,10 @@ If struggling with bowel and rectal doses it is possible to create the following
      > * Apply a mean objective of 98% Dose and a Priority of 40.
   
   
+  Prostate / Pelvis			
+Dose Levels	95%	100%	107%
+PTV3	70.3	74	79.18
+PTV2	64.45	71	75.97
+PTV1	52.25	55	58.85
+
+  
