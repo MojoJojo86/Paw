@@ -2,10 +2,10 @@
 # kumQART <small>v1.0.0</small>
 
 > QART docs made simple.
->
 
+
+- Nice and Clean
 - Easy to Use
-- Super Clean
 - Get what you need...fast!
 
 <!-- background color -->
