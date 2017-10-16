@@ -9,4 +9,4 @@
 - Get what you need...fast!
 
 <!-- background color -->
-![color](#FFF)
+![colour](#FFF)
