@@ -27,9 +27,10 @@
 
 ### 2. OAR Contouring
 
+> If struggling with bowel and rectal doses it is possible to create the following structures.
+
 !> ***Avoid below if the overlap looks fine.***
 
-> If struggling with bowel and rectal doses it is possible to create the following structures.
 
   1. ***Rectum_in_74***
      > * Boolean Rectum and 74Gy structure to leave an overlap of these. 
