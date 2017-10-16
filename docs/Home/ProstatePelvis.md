@@ -31,7 +31,8 @@
 If struggling with bowel and rectal doses it is possible to create the following structures.
 
   1. ***Rectum_in_74***
-     > Boolean Rectum and 74Gy structure to leave an overlap of these. Apply a mean objective of 98% Dose and a Priority of 40.
+     > * Boolean Rectum and 74Gy structure to leave an overlap of these. 
+     > * Apply a mean objective of 98% Dose and a Priority of 40.
   2. ***Rectum_in_71***
      > Boolean Rectum and 71Gy structure to leave an overlap of these. Apply a mean objective of 98% Dose and a Priority of 40.
   3. ***Bowel_in_55***
