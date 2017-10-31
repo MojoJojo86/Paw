@@ -8,5 +8,7 @@
 - Easy to Use
 - Get what you need...fast!
 
-![color](#FFFFFF)
 [Get Started](#Headline)
+
+![color](#FFFFFF)
+
