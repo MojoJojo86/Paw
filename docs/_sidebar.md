@@ -4,6 +4,6 @@
     - [Head and Neck Extras](Latest/HeadNeckExtras.md)
 
 - **Treatment Sites**
-    - [Guide](Home/guide.md)
-    - [Second](Home/second.md)
+    - [Head and Neck](Home/guide.md)
+    - [Breast](Home/second.md)
     - [Prostate/Pelvis](Home/ProstatePelvis.md)
