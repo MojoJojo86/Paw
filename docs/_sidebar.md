@@ -3,7 +3,6 @@
     - [Prosthetic Joints](Latest/Prosthetic.md)
     - [Head and Neck Extras](Latest/HeadNeckExtras.md)
 
-
 - **Treatment Sites**
     - [Guide](Home/guide.md)
     - [Second](Home/second.md)
