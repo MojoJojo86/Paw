@@ -8,7 +8,7 @@
 - Easy to Use
 - Get what you need...fast!
 
-[Get Started](#Headline)
+[Get Started](#kumQART)
 
 ![color](#FFFFFF)
 
