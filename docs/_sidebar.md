@@ -12,6 +12,6 @@
   - [Spine](Home/second.md)
   - [Abdomen](Home/second.md)
   - [Gynae](Home/second.md)
-  - [Prostate/Pelvis](Home/ProstatePelvis.md)
+  - [Prostate](Home/ProstatePelvis.md)
   - [Colorectal](Home/second.md)
   - [Sarcomas](Home/second.md)
