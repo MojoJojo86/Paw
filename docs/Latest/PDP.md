@@ -1,4 +1,4 @@
-# PDP - How to guide.
+## PDP - How to guide.
 
 ### External Beam Workspace 
   1. Create a verification Plan and select PDP.
